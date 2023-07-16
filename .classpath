@@ -8,17 +8,17 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="E:/Know-IT/Adv.JAVA/JDBC-2/mysql-connector-java-8.0.26.jar">
-		<attributes>
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="E:/Know-IT/Adv.JAVA/javax.servlet-3.0.jar">
+	<classpathentry kind="lib" path="E:/Know-IT/Adv.JAVA/javax.servlet-3.0.jar" sourcepath="/FirstWeb/src/main/webapp/WEB-INF/lib/javax.servlet-3.0.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="E:/Know-IT/Adv.JAVA/servlet.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Know-IT/Adv.JAVA/JDBC-2/mysql-connector-java-8.0.26.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
